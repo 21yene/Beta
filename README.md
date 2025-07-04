@@ -1,4 +1,4 @@
-Building Store managment system
+Building Store managment system using Fast API
 
 Step 1:
     - creating virtual enviroment
